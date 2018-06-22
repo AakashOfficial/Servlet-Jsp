@@ -5,6 +5,7 @@
     <welcome-file>DemoFile.jsp</welcome-file>
   </welcome-file-list>
   
+  <!--
   <servlet>
   <servlet-name>demoservlet</servlet-name>
   <servlet-class>com.java.servlet.ServletDemo</servlet-class>
@@ -14,4 +15,5 @@
   <servlet-name>demoservlet</servlet-name>
   <url-pattern>/actionurl</url-pattern>
   </servlet-mapping>
+  -->
 </web-app>
